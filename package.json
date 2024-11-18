@@ -1,0 +1,15 @@
+{
+  "name": "atividadesemana",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
